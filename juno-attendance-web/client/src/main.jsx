@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, Link, useNavigate } from "react-router-do
 import { Html5Qrcode } from "html5-qrcode";
 import "./style.css";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:4000";
+const API = "";
 
 const emptyUsers = [];
 
